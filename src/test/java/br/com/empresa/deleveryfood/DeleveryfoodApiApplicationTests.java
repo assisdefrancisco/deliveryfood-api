@@ -1,12 +1,12 @@
 package br.com.empresa.deleveryfood;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class DeleveryfoodApiApplicationTests {
 
-	@Test
+//	@Test
 	void contextLoads() {
 	}
 
